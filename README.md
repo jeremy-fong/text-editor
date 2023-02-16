@@ -67,7 +67,7 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ## Screenshot Preview of Project :
-
+![J A T E screenshot](https://user-images.githubusercontent.com/112743562/219504379-e37eff1c-d5e4-46a9-aa7f-73253b02e662.jpg)
 
 ## Source :
 - GitHub Link: https://github.com/jeremy-fong/text-editor
