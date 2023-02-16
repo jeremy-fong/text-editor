@@ -71,4 +71,4 @@ THEN I should have proper build scripts for a webpack application
 
 ## Source :
 - GitHub Link: https://github.com/jeremy-fong/text-editor
-- Heroku Deployed Link: 
+- Heroku Deployed Link: https://pwa-editing-text.herokuapp.com/
